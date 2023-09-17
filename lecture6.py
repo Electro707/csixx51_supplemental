@@ -1,6 +1,8 @@
 """
 This lecture covered over how everything in Python is an object, classes, and sub-classes
 
+Written by Jamal Bouajjaj, 2023
+
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 """
 print("--- Welcome to Lecture 6's example/follow-along code ---")
